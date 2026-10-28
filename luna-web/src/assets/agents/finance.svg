@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_finance)">
+<rect width="40" height="40" rx="20" fill="#E6EBE6"/>
+<rect x="10.4166" y="9.16675" width="19.1667" height="18.3333" rx="7.5" fill="#8A4A2B"/>
+<ellipse cx="20" cy="44.1667" rx="15.8333" ry="12.5" fill="#23364D"/>
+<path d="M16.6666 32.5L20 38.3333L23.3333 32.5H16.6666Z" fill="white" stroke="black" stroke-width="0.416667"/>
+<rect x="17.0834" y="24.1667" width="5.83333" height="10" fill="#DCB598"/>
+<ellipse cx="20" cy="19.5833" rx="7.5" ry="8.75" fill="#F0CDB2"/>
+<circle cx="17.0833" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<circle cx="22.9167" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<path d="M17.9166 23.75C19.3055 24.8611 20.6944 24.8611 22.0833 23.75" stroke="#7A3B30" stroke-width="0.625" stroke-linecap="round"/>
+<path d="M12.0833 18.3332C11.6666 9.16656 27.4999 8.33323 27.9166 18.3332C25.8333 13.3332 19.1666 11.6666 14.9999 14.9999C13.7499 15.8332 12.4999 17.0832 12.0833 18.3332Z" fill="#8A4A2B" stroke="black" stroke-width="0.416667"/>
+</g>
+<defs><clipPath id="clip0_finance"><rect width="40" height="40" rx="20" fill="white"/></clipPath></defs>
+</svg>

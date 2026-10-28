@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+@import './theme/tokens.generated.css';
+
+@layer base {
+  html { font-size: 15px; height: 100%; overflow: hidden; }
+  body { @apply bg-canvas text-fg font-sans antialiased; margin: 0; height: 100%; overflow: hidden; }
+  button { cursor: pointer; font: inherit; color: inherit; }
+  button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+}
+
+/* Scrollbars are never drawn; scrolling itself (wheel, trackpad, touch, keyboard) still works. */
+* { scrollbar-width: none; }
+*::-webkit-scrollbar { display: none; }
+
+@media print {
+  html, body { height: auto; overflow: visible; }
+  body * { visibility: hidden; }
+  .print-area, .print-area * { visibility: visible; }
+  .print-area { position: absolute; inset: 0; box-shadow: none; }
+}

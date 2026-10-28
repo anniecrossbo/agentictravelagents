@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_sales)">
+<rect width="40" height="40" rx="20" fill="#DFE9E9"/>
+<ellipse cx="20" cy="44.1667" rx="15.8333" ry="12.5" fill="#0F5563"/>
+<path d="M16.6667 32.5L20 38.3333L23.3333 32.5H16.6667Z" fill="white" stroke="black" stroke-width="0.416667"/>
+<rect x="17.0833" y="24.1667" width="5.83333" height="10" fill="#B57852"/>
+<rect x="10" y="9.16675" width="20" height="25.8333" rx="10" fill="#1F1714"/>
+<ellipse cx="20" cy="19.5833" rx="7.5" ry="8.75" fill="#C98D66"/>
+<circle cx="17.0833" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<circle cx="22.9167" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<path d="M17.9167 23.75C19.3055 24.8611 20.6944 24.8611 22.0833 23.75" stroke="#7A3B30" stroke-width="0.625" stroke-linecap="round"/>
+<path d="M12.0833 19.1668C11.25 10.0001 18.3333 7.50011 22.5 8.75011C26.6667 9.58345 28.75 14.1668 27.9167 19.1668C26.6667 15.0001 24.1667 12.9168 20.8333 12.5001C17.5 13.7501 13.75 15.4168 12.0833 19.1668Z" fill="#1F1714" stroke="black" stroke-width="0.416667"/>
+</g>
+<defs><clipPath id="clip0_sales"><rect width="40" height="40" rx="20" fill="white"/></clipPath></defs>
+</svg>

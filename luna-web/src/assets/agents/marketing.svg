@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_marketing)">
+<rect width="40" height="40" rx="20" fill="#E3E9EA"/>
+<ellipse cx="20" cy="44.1667" rx="15.8333" ry="12.5" fill="#6FA3A8"/>
+<rect x="17.0834" y="24.1667" width="5.83333" height="10" fill="#A56D47"/>
+<ellipse cx="20" cy="19.5833" rx="7.5" ry="8.75" fill="#B98058"/>
+<circle cx="17.0833" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<circle cx="22.9167" cy="20.1251" r="0.708333" fill="#2B2320"/>
+<path d="M17.9166 23.75C19.3055 24.8611 20.6944 24.8611 22.0833 23.75" stroke="#7A3B30" stroke-width="0.625" stroke-linecap="round"/>
+<path d="M12.5 17.5C12.0834 9.16667 27.9167 9.16667 27.5 17.5C25.8334 13.75 14.1667 13.75 12.5 17.5Z" fill="#1C1511" stroke="black" stroke-width="0.416667"/>
+<path d="M13.3334 21.6667C13.3334 30.0001 26.6667 30.0001 26.6667 21.6667C25.8334 25.8334 14.1667 25.8334 13.3334 21.6667Z" fill="#1C1511" fill-opacity="0.35" stroke="black" stroke-width="0.416667"/>
+</g>
+<defs><clipPath id="clip0_marketing"><rect width="40" height="40" rx="20" fill="white"/></clipPath></defs>
+</svg>
